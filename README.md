@@ -1,5 +1,5 @@
 # dev-challenge
-please note that this project was done under Windows OS, and the 8 JDK version.
+this is a project using Java, Springboot to create an API only with the create and read funtions of the CRUD. Please note that this project was done under Windows OS, and the 8 JDK version.
 
 First you have to install the dependencies from maven, you can do it using the command:
 
