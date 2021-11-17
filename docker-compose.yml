@@ -10,4 +10,4 @@ services:
       - DATABASE_HOST=127.0.0.1
       - POSTGRES_USER=root
       - POSTGRES_PASSWORD=root123*
-      - POSTGRES_DB=student
+      - POSTGRES_DB=person
